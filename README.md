@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/halim1012/halim1012/main/git-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/halim1012/halim1012/main/git-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/halim1012/halim1012/main/git-contribution-grid-snake.svg"
   />
 </picture>
 </div>
